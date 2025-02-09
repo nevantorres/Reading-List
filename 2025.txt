@@ -1,0 +1,6 @@
+2025 Reads:
+  January:
+    - The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution
+    - Black Edge: Inside Information, Dirty Money, and the Quest to Bring Down the Most Wanted Man on Wall Street
+  February:
+    - Parallel and High Performance Computing, ISBN-13: 978-1617296468
